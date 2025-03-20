@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Automation testing.**
+- 🌱 I’m currently learning **AI, Machine Learning.**
 
-- 💬 Ask me about **GoLang, C, Laravel**
+- 💬 Ask me about **Python, Microcontroller, GoLang, PHP, Laravel**
 
 - 📫 How to reach me **akibfaysol@gmail.com**
 
