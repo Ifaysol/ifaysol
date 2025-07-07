@@ -89,8 +89,9 @@ Here are some details about me:
 <a href="https://code.visualstudio.com/"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime Text-474747?style=for-the-badge&logo=visual%20studio%20code&logoColor=yellow"></a>
 <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-</p>
 <a href="https://www.arduino.cc/"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+</p>
+
 
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ifaysol&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
