@@ -60,6 +60,17 @@ Here are some details about me:
 <a href="https://tailwindcss.com"> 
     <img alt="TailwindCss" src="https://img.shields.io/badge/tailwindcss-07b6d5?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </a>
+<a href="https://www.djangoproject.com/">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</a>
+<a href="https://flask.palletsprojects.com/">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</a>
+<a href="https://docs.python.org/3/library/tk.html">
+    <img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-FFB400?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+
+
 </p>
 
 ### 👉 Operating Systems
