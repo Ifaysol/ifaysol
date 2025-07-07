@@ -34,6 +34,9 @@ Here are some details about me:
 <a href="https://go.dev">
     <img alt="GO" src="https://img.shields.io/badge/go-6295cc?style=for-the-badge&logo=go&logoColor=white"/>
 </a>
+  <a href="https://go.dev">
+    <img alt="Python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
 <a href="https://developers.google.com/protocol-buffers">
     <img alt="Proto" src="https://img.shields.io/badge/Protocol Buffers-858dbb?style=for-the-badge&logo=google&logoColor=white"/>
 </a>
@@ -87,10 +90,12 @@ Here are some details about me:
 <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
 </p>
+<a href="https://www.arduino.cc/"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imtaslim&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://github-readme-stats.vercel.app/api?username=imtaslim&hide_border=false&include_all_commits=true&count_private=true)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ifaysol&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtaslim&"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtaslim">
+![](https://github-readme-stats.vercel.app/api?username=ifaysol&hide_border=false&include_all_commits=true&count_private=true)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifaysol&"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifaysol">
