@@ -47,6 +47,9 @@ My technical expertise includes:
 <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/php-858dbb?style=for-the-badge&logo=php&logoColor=white"/>
 </a>
+  <a href="https://www.learn-c.org/">
+    <img alt="C/C++" src="https://img.shields.io/badge/go-6295cc?style=for-the-badge&logo=go&logoColor=white"/>
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img alt="JAVASCRIPT" src="https://img.shields.io/badge/javascript-efd71d?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
