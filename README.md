@@ -14,15 +14,19 @@
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
 </p> 
 <hr/>
-<h4 align="left">I am a Programmer, Web Developer, Machine Learning Engineer from Dhaka, Bangladesh. I love to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="left">I am an AI Engineer, Software Engineer, Full-Stack Web Developer, Machine Learning Engineer, and IoT Engineer based in Dhaka, Bangladesh, with a strong passion for building intelligent, scalable, and real-world technology solutions. My expertise lies at the intersection of Artificial Intelligence, Machine Learning, Computer Vision, Embedded Systems, Industrial IoT (IIoT), and Full-Stack Software Development.
 
-Here are some details about me:
+I specialize in designing and developing end-to-end systems that seamlessly integrate AI models, embedded hardware, industrial communication protocols, cloud services, and modern web applications. My work focuses on transforming real-world industrial challenges into intelligent, automated, and data-driven solutions.</h4>
 
-- 🔭 I’m currently working on Backend Web Development with (PHP & GoLang) & AI/ML Development(Python)...
-- 🌱 I’m currently learning Javascript, Microcontroller, Pytorch & TensorFlow...
-- 👯 I’m looking to collaborate on a full stack development & AI/ML Development...
-- 🤔 I’m looking for help with my learning Availity...
-- 💬 Ask me about anything, I'm happy to help...
+My technical expertise includes:
+
+- 🔭 Artificial Intelligence & Machine Learning: Machine Learning, Deep Learning, Computer Vision, Object Detection, YOLO,        OpenCV, Edge AI, AI Model Deployment, Data Analysis, Model Optimization
+- 🌱 Embedded Systems & IoT: Arduino, ESP32, Raspberry Pi, STM32, Sensor Integration, Edge Devices, Real-Time Monitoring,         Remote Device Management
+- 👯 Industrial Automation & IIoT: PLC Communication, SCADA Integration, Modbus RTU/TCP, PROFIBUS, Industrial Ethernet, RS-       485, RS-232, MQTT, OPC concepts, Industrial Data Acquisition
+- 🤔 Software Development: Python, Go, C/C++, PHP, Laravel Framework, RESTful APIs, Microservices, Backend Development,           Database Design
+- 💬 Databases: MySQL, PostgreSQL, SQLite
+- 👯 Cloud & DevOps: Docker, Git, GitHub, Linux, CI/CD fundamentals, Cloud Integration, API Integration
+- 🌱 Networking: TCP/IP, Ethernet Communication, Network Programming, Industrial Networking
 - 📫 How to reach me: You can contact me through my email: akibfaysol@gmail.com...
 
 ## 🛠️ My Skills
