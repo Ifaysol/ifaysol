@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I am an **AI Engineer**, **Software Developer**, **Full-Stack Web Developer**, and **IoT Engineer** based in Dhaka, Bangladesh. I love building intelligent, scalable, and real-world solutions that bridge the gap between hardware, AI, and the cloud.
+I am an **AI Engineer**, **Software Developer**, **Backend Web Developer**, and **IoT Engineer** based in Dhaka, Bangladesh. I love building intelligent, scalable, and real-world solutions that bridge the gap between hardware, AI, and the cloud.
 
 - 🔭 I’m currently working on **Industrial IoT & AI-driven automation** projects.
 - 🌱 I’m exploring **Edge AI**, **Computer Vision**, and **Embedded Systems**.
@@ -134,7 +134,7 @@ I am an **AI Engineer**, **Software Developer**, **Full-Stack Web Developer**, a
     </td>
     <td>
       <a href="#"><strong>📱 Smart Home Automation</strong></a><br/>
-      <small>Raspberry Pi, Node.js, React</small>
+      <small>Raspberry Pi, Arduino, ESP32 CAM</small>
     </td>
   </tr>
 </table>
